@@ -1,0 +1,157 @@
+{
+    "proyectos": [
+      {
+        "titulo": "PÁGINA WEB \"Rg Library\"",
+        "descripcion": "Página web para descargar juegos.",
+        "tareasRealizadas": ["Diseño y estructura de la página.", "Catálogo de juegos."],
+        "tecnologias": ["Bootstrap", "HTML", "CSS"],
+        "enlaceProyecto": "https://rglibrary.netlify.app/",
+        "enlaceGitHub": "https://github.com/mrgiann/RgLibrary",
+        "colorProyecto": "#82d649",
+        "colorGithub": "#82d649",
+        "imagen": "/rglibrary.webp"
+      },
+      {
+        "titulo": "PÁGINA WEB \"Weather app\"",
+        "descripcion": "Consumo de Weather API.",
+        "tareasRealizadas": ["Consumo de Weather API.", "Diseño de la interfaz de usuario."],
+        "tecnologias": ["Javascript", "HTML", "CSS"],
+        "enlaceProyecto": "https://mrgiann.github.io/Weather-app/",
+        "enlaceGitHub": "https://github.com/mrgiann/Weather-app",
+        "colorProyecto": "#82d649",
+        "colorGithub": "#82d649",
+        "imagen": "/clima.webp"
+      },
+      {
+        "titulo": "PÁGINA WEB \"Pokedex\"",
+        "descripcion": "Consumo de Api pokeapi.co.",
+        "tareasRealizadas": ["Consumo de Api pokeapi.co.", "Diseño de la interfaz de usuario."],
+        "tecnologias": ["Javascript", "HTML", "CSS"],
+        "enlaceProyecto": "https://mrgiann.github.io/Pokedex/",
+        "enlaceGitHub": "https://github.com/mrgiann/Pokedex",
+        "colorProyecto": "#82d649",
+        "colorGithub": "#82d649",
+        "imagen": "/pokedex.webp"
+      },
+      {
+        "titulo": "PÁGINA WEB \"Card generator\"",
+        "descripcion": "Página web para generar una tarjeta de presentación personalizable.",
+        "tareasRealizadas": ["Diseño de la interfaz de usuario.", "Campos personalizables.", "Generación de la tarjeta."],
+        "tecnologias": ["Javascript", "HTML", "CSS"],
+        "enlaceProyecto": "https://mrgiann.github.io/Card-generator/",
+        "enlaceGitHub": "https://github.com/mrgiann/Card-generator",
+        "colorProyecto": "#82d649",
+        "colorGithub": "#82d649",
+        "imagen": "/tarjetas.webp"
+      },
+      {
+        "titulo": "PÁGINA WEB \"Calculator\"",
+        "descripcion": "Página web calculadora básica.",
+        "tareasRealizadas": ["Interfaz de usuario.", "Implementación del motor de cálculo."],
+        "tecnologias": ["Javascript", "HTML", "CSS"],
+        "enlaceProyecto": "https://mrgiann.github.io/Calculator/",
+        "enlaceGitHub": "https://github.com/mrgiann/Calculator",
+        "colorProyecto": "#82d649",
+        "colorGithub": "#82d649",
+        "imagen": "/calculator.webp"
+      },
+      {
+        "titulo": "PÁGINA WEB \"Text encryptor\"",
+        "descripcion": "Página web encriptador de texto.",
+        "tareasRealizadas": ["Interfaz de usuario.", "Función para encriptar texto."],
+        "tecnologias": ["Javascript", "HTML", "CSS"],
+        "enlaceProyecto": "https://mrgiann.github.io/Text-encryptor/",
+        "enlaceGitHub": "https://github.com/mrgiann/Text-encryptor",
+        "colorProyecto": "#82d649",
+        "colorGithub": "#82d649",
+        "imagen": "/encriptador.webp"
+      },
+      {
+        "titulo": "PÁGINA WEB \"Pomodoro stopwatch\"",
+        "descripcion": "Página web cronómetro para trabajar/estudiar.",
+        "tareasRealizadas": ["Diseño de la interfaz de usuario.", "Controles del cronómetro.", "Personalización de temporizador."],
+        "tecnologias": ["Javascript", "HTML", "CSS"],
+        "colorProyecto": "#423e3e",
+        "colorGithub": "#423e3e",
+        "imagen": "/cronometro.webp"
+      },
+      {
+        "titulo": "PÁGINA WEB \"Zombie corner\"",
+        "descripcion": "Página web sobre juegos de zombies.",
+        "tareasRealizadas": ["Diseño de la interfaz de usuario.", "Descripción de juegos."],
+        "tecnologias": ["Bootstrap", "Javascript", "HTML", "CSS"],
+        "enlaceProyecto": "https://mrgiann.github.io/Zombie-corner/",
+        "enlaceGitHub": "https://github.com/mrgiann/Zombie-corner",
+        "colorProyecto": "#82d649",
+        "colorGithub": "#82d649",
+        "imagen": "/zombiecorner.webp"
+      },
+      {
+        "titulo": "PÁGINA WEB \"Caniche electronics\"",
+        "descripcion": "Tienda ficticia de periféricos.",
+        "tareasRealizadas": ["Diseño de la interfaz de usuario.", "Creación de páginas de detalle de productos."],
+        "tecnologias": ["Bootstrap", "HTML", "CSS"],
+        "enlaceProyecto": "https://mrgiann.github.io/Caniche-electronics/",
+        "enlaceGitHub": "https://github.com/mrgiann/Caniche-electronics",
+        "colorProyecto": "#82d649",
+        "colorGithub": "#82d649",
+        "imagen": "/canicheelectronics.webp"
+      },
+      {
+        "titulo": "PÁGINA WEB \"Snake game\"",
+        "descripcion": "Clásico juego de la serpiente.",
+        "tareasRealizadas": ["Lógica del juego.", "Mecanismos de puntuación."],
+        "tecnologias": ["Javascript", "HTML", "CSS"],
+        "enlaceProyecto": "https://mrgiann.github.io/Snake-game/",
+        "enlaceGitHub": "https://github.com/mrgiann/Snake-game",
+        "colorProyecto": "#82d649",
+        "colorGithub": "#82d649",
+        "imagen": "/snakegame.webp"
+      },
+      {
+        "titulo": "PÁGINA WEB \"Defense game\"",
+        "descripcion": "Juego de disparos.",
+        "tareasRealizadas": ["Lógica del juego."],
+        "tecnologias": ["Javascript", "HTML", "CSS"],
+        "enlaceProyecto": "https://mrgiann.github.io/Defense-game/",
+        "enlaceGitHub": "https://github.com/mrgiann/Defense-game",
+        "colorProyecto": "#82d649",
+        "colorGithub": "#82d649",
+        "imagen": "/defense.webp"
+      },
+
+
+      {
+        "titulo": "PÁGINA WEB \"Square game\"",
+        "descripcion": "Marco básico de juego.",
+        "tareasRealizadas": ["Lógica del juego.", "Mecanicas basicas."],
+        "tecnologias": ["Javascript", "HTML", "CSS"],
+        "enlaceProyecto": "https://mrgiann.github.io/Square-game/",
+        "enlaceGitHub": "https://github.com/mrgiann/Square-game",
+        "colorProyecto": "#82d649",
+        "colorGithub": "#82d649",
+        "imagen": "/squaregame.webp"
+      },
+      {
+        "titulo": "JUEGO DE ESCRITORIO \"Rock paper scissors\"",
+        "descripcion": "Juego de escritorio de piedra papel o tijera.",
+        "tareasRealizadas": ["Lógica del juego.", "Jugada de la computadora.", "Almacenamiento de puntuación."],
+        "tecnologias": ["Python"],
+        "enlaceGitHub": "https://github.com/mrgiann/rock-paper-scissors-game",
+        "colorProyecto": "#423e3e",
+        "colorGithub": "#82d649",
+        "imagen": "/gameppt.webp"
+      },
+      {
+        "titulo": "JUEGO DE ESCRITORIO \"Guess the number\"",
+        "descripcion": "Juego de adivinar el numero.",
+        "tareasRealizadas": ["Lógica del juego.", "Contador de intentos."],
+        "tecnologias": ["Python"],
+        "enlaceGitHub": "https://github.com/mrgiann/Guess-the-number",
+        "colorProyecto": "#423e3e",
+        "colorGithub": "#82d649",
+        "imagen": "/gamegtn.webp"
+      }
+    ]
+  }
+  
